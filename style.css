@@ -10,6 +10,7 @@ body {
 .contact {
 	margin: 6pt;
 	padding: 6pt;
+	min-width: 20rem;
 
 	border: 1.2pt;
 	border-style: solid;
