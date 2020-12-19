@@ -1,3 +1,17 @@
 body {
 	padding-top: 2rem;
 }
+
+.service-icon {
+	width: 1rem;
+	height: 1rem;
+}
+
+.contact {
+	margin: 6pt;
+	padding: 6pt;
+
+	border: 1.2pt;
+	border-style: solid;
+	border-radius: 5px;
+}
