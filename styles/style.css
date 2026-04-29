@@ -1,0 +1,19 @@
+body {
+	padding-top: 2rem;
+}
+
+.service-icon {
+	width: 1rem;
+	height: 1rem;
+	margin: 2px;
+}
+
+.contact {
+	margin: 8px;
+	padding: 8px;
+	min-width: 18em;
+
+	border: 2px;
+	border-style: solid;
+	border-radius: 5px;
+}
